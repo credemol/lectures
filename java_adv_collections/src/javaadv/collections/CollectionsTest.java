@@ -1,5 +1,6 @@
 package javaadv.collections;
 
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
@@ -149,6 +150,8 @@ public class CollectionsTest {
 		bag.add("TWO");
 		bag.add("THREE");
 		bag.add("FOUR");
+		
+	
 		
 		System.out.println(bag);
 	}
